@@ -5,8 +5,10 @@ Version: 0.1.0
 Authors@R: c(person("Elliot H.", "Young", email = "ey244@cam.ac.uk",role = c("aut", "cre")),
   person("Rajen D.", "Shah", role = c("aut")))
 Maintainer: Elliot H. Young <ey244@cam.ac.uk>
-Description: ROSE random forests for robust semiparametric efficient estimation 
-  in partially parametric models (containing generalised partially linear models).
+Description: ROSE (RObust Semiparametric Efficient) random forests for robust 
+  semiparametric efficient estimation in partially parametric models (containing 
+  generalised partially linear models).
+  Details can be found in the paper by Young and Shah (2024) <doi:10.48550/arXiv.2410.03471>.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
