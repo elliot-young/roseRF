@@ -15,7 +15,7 @@ You can install the released version of roseRF from [CRAN](https://CRAN.R-projec
 ``` r
 install.packages("roseRF")
 ```
- -->
+
 
 The development version can be installed from
 [GitHub](https://github.com/) with:
