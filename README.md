@@ -10,8 +10,7 @@ The *roseRF* package can be used to estimate RObust Semiparametric Efficient (RO
 
 ## Installation
 
-<!-- relevant once accepted on CRAN
-You can install the released version of sandwich.boost from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of roseRF from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
 install.packages("roseRF")
